@@ -1,2 +1,2 @@
 # hackdustry
-A mindustry mod featuring a cringy name.
+hackdustry best mod ever
