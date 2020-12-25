@@ -14,8 +14,10 @@ const init = () => {
         }, () => {
             Vars.ui.showCustomConfirm("$secret.title", "$secret.text", "$yes", "$no", () => {
                 Core.app.openURI("https://youtu.be/dQw4w9WgXcQ");
+                Core.app.openURI("https://github.com/QmelZ/Hackustry");
             }, () => {
                 Core.app.openURI("https://youtu.be/dQw4w9WgXcQ");
+                Core.app.openURI("https://github.com/QmelZ/Hackustry");
             });
         });
     });
